@@ -96,17 +96,17 @@ export default function App() {
       <div className="bg-slate h-screen flex justify-center items-center ">
         <div className="bg-white contain flex flex-col  gap-10   border rounded-lg">
           <div className="p-5">
-            <img src="../public/Group.png" alt="" />
+            <img src="./assets/Group.png" alt="" />
           </div>
           <div>
-            <span className="mask"><img src="../public/Mask group.svg" alt="" /></span>
+            <span className="mask2"><img src="./assets/Mask group.svg" alt="" /></span>
             <div className="Know flex justify-center items-center flex-col gap-5">
               <h1 className="blue text-2xl font-bold">!ممكن نتعرف</h1>
               <h5 className="gary">
                 من أي رقم قومي مصري هتقدر تعرف شوية تفاصيل بسيطة
               </h5>
             </div>
-            <span className="mask2"><img src="../public/Mask group.svg" alt="" /></span>
+            <span className="mask2"><img src="./assets/Mask group.svg" alt="" /></span>
 
           </div>
           <div className=" flex justify-center">
